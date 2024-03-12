@@ -12,3 +12,6 @@
 ### Diseño de juegos --- Hector Guerrero
 > En esta clase estamos viendo los principios del desarrollo de los juegos, además de darnos una idea de como organizar nuestras ideas a la hora de pensar en mecánicas y dinámicas para que los juegos nos queden mejores.
 
+### Proyecto de app --- Sebastian Mejia
+> En esta clase hemos estado viendo como presentarle a un cliente los proyectos que nos piden y como funciona una base de datos.
+
