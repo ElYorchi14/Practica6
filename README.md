@@ -8,3 +8,7 @@
 
 ### Composición y Diseño --- Roberto Melo
 > En esta clase se ha estado viendo las herramientas relacionadas con la aplicación de photoshop además de una introducción a la teoria del diseño gráfico y su importancia en nuestra vida diaria
+
+### Diseño de juegos --- Hector Guerrero
+> En esta clase estamos viendo los principios del desarrollo de los juegos, además de darnos una idea de como organizar nuestras ideas a la hora de pensar en mecánicas y dinámicas para que los juegos nos queden mejores.
+
