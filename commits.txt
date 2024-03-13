@@ -1,0 +1,63 @@
+commit 2407d36f6995913313699a046ec76098790a656e
+Merge: 2c86fa3 12b7ec1
+Author: Jorge Palacios <cdmx2637@amerike.edu.mx>
+Date:   Tue Mar 12 10:44:47 2024 -0600
+
+    Fusionando los cambios de la rama de Proyecto de app
+
+commit 12b7ec1b308f108a4aebb0317d2123707276b6a5
+Author: Jorge Palacios <cdmx2637@amerike.edu.mx>
+Date:   Tue Mar 12 10:43:33 2024 -0600
+
+    Agregando información de la materia de proyecto de app
+
+commit 2c86fa367be5cd3cf4fd79a92e3026a0fe4ec739
+Merge: 379866f ab2c3ee
+Author: Jorge Palacios <cdmx2637@amerike.edu.mx>
+Date:   Tue Mar 12 10:41:11 2024 -0600
+
+    Fusionando los cambios de la rama de Diseño de juegos
+
+commit ab2c3ee5be7c1855c1f0b8e4813b42bd018a7a77
+Author: Jorge Palacios <cdmx2637@amerike.edu.mx>
+Date:   Tue Mar 12 10:39:51 2024 -0600
+
+    Agregando la información de la materia de diseño de juegos
+
+commit 379866fbbaeb7dee37607ba5cf5b1463ccfb6f1e
+Merge: 681644c 7178640
+Author: Jorge Palacios <cdmx2637@amerike.edu.mx>
+Date:   Tue Mar 12 10:36:30 2024 -0600
+
+    Fusionando con la rama de la materia de composición y diseño
+
+commit 7178640fd7bfdab41e554c32d3fab6576f5f2890
+Author: Jorge Palacios <cdmx2637@amerike.edu.mx>
+Date:   Tue Mar 12 10:34:44 2024 -0600
+
+    Agregando la información de la materia de composición y diseño
+
+commit 681644c7ac6c4e137fbb178a990ba4b7bdd2bfe3
+Merge: b231ca3 cc996df
+Author: Jorge Palacios <cdmx2637@amerike.edu.mx>
+Date:   Tue Mar 12 10:31:25 2024 -0600
+
+    Fusionando las ramas de lenguajes interpretados y sistemas operativos en el main
+
+commit cc996dfa1ad0e0be77e3f1a7dfc55158c824e72d
+Author: Jorge Palacios <cdmx2637@amerike.edu.mx>
+Date:   Tue Mar 12 10:28:42 2024 -0600
+
+    Agregando la información de la materia de Sistemas Operativos
+
+commit b231ca38fe9e01fa30c8b7dcc862a8d667ff2c40
+Author: Jorge Palacios <cdmx2637@amerike.edu.mx>
+Date:   Tue Mar 12 10:25:00 2024 -0600
+
+    Agregando la información de la materia de Lenguajes interpretados
+
+commit 4245a9f1fb0ca64d2ca046f408b2a865a4084a25
+Author: Jorge Palacios <cdmx2637@amerike.edu.mx>
+Date:   Tue Mar 12 09:47:05 2024 -0600
+
+    Primer commit
